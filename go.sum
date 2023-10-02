@@ -1,2 +1,4 @@
+github.com/LeanerCloud/ec2-instances-info v0.0.0-20230905092627-1725cb4f820e h1:ammc9HwKRs5G8HWMHJyISUlMux7VTUbwVvs6aV1MhVY=
+github.com/LeanerCloud/ec2-instances-info v0.0.0-20230905092627-1725cb4f820e/go.mod h1:H8Ig4zk6ZXt1jldIT6AlC/5T1HFG2KCxawtaclu7rVQ=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
